@@ -1,0 +1,25 @@
+1) There is very little difference in the amount of the three cluster of both datasets. The first cluster of 1953 has 48 countries in it and 2008 has 46.
+   The second cluster of 1953 has 60 countries in it and 2008 has 61. The third cluster of 1953 has 88 countries in it and 2008 has 89.
+   The first cluster of the 1953 dataset is comprised of rich countries mostly located in North America and Europe.
+   The second cluster of the 1953 dataset is comprised of middle income countries in Europe, Asia, Africa and South America.
+   The final cluster is comprised of poor Countries in Africa and Asia with a few Easter European countries making the list.
+   In the 2008 dataset's first cluster comprises of mainly poor African countries and some Asian countries.
+   The second cluster is made up of mostly Asian countries and the third cluster is copirsed of mostly European and American countries.
+   The clusters differ greatly in terms of the countries that make up the cluster. They are almost opposite.
+   The means differ greatly as well. This is because of the counties that correspond to the clusters.
+   2008:
+   Cluster 1 Mean Birthrate: 30.028 Mean life Expectancy: 47.199
+   Cluster 2 Mean Birthrate: 23.34 Mean life Expectancy: 66.168
+   Cluster 3 Mean Birthrate: 13.536 Mean life Expectancy: 79.014  
+   1953:
+   Cluster 1 Mean Birthrate: 21.227 Mean life Expectancy: 66.109
+   Cluster 2 Mean Birthrate: 37.097 Mean life Expectancy: 59.743
+   Cluster 3 Mean Birthrate: 48.332 Mean life Expectancy: 48.753
+
+2) There are big geographical differences between countries in the first three clusters whereas the 4th cluster has pretty much the same countries in.
+   There is only one 2008 country in the second cluster but there is a vast difference in the data from 1953 and 2008.
+   Except for the third cluster the means correlate to the means of the datasets of 2008 and 1953.
+   Cluster 1 Mean Birthrate: 21.227 Mean life Expectancy: 66.109
+   Cluster 2 Mean Birthrate: 46.822 Mean life Expectancy: 42.28
+   Cluster 3 Mean Birthrate: 15.917 Mean life Expectancy: 69.87
+   Cluster 4 Mean Birthrate: 48.332 Mean life Expectancy: 48.753
